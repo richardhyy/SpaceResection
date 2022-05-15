@@ -12,7 +12,7 @@ where `points.txt` is formatted as:
 ```
 
 ## Reference:
-* 武汉大学 摄影测量学 主讲-袁修孝 视频教程
+* Photogrammetry - Lecture videos by Prof. Yuan Xiuxiao
     * https://www.bilibili.com/video/BV19x411B7ZV?p=28
     * https://www.bilibili.com/video/BV19x411B7ZV?p=29
     * https://www.bilibili.com/video/BV19x411B7ZV?p=30&t=32.0
